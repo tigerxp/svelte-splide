@@ -1,4 +1,4 @@
-<script >
+<script lang="ts">
   import { classNames } from '../../utils';
   let { class: className = undefined, ...rest } = $props();
 </script>
